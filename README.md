@@ -37,11 +37,7 @@ javac Soma.java
 
 java Soma
 
-```
 
-
-
----
 
 💻 Exemplo de Execução
 
