@@ -30,7 +30,7 @@ Uma aplicação de terminal desenvolvida em Java que funciona como uma calculado
 
 javac Soma.java
 
-```
+
 
 
 2. **Execute a calculadora:**
@@ -43,7 +43,7 @@ java Soma
 
 ---
 
-## 💻 Exemplo de Execução
+💻 Exemplo de Execução
 
 Digite o primeiro número: 15
 Digite o segundo número: 25
@@ -53,9 +53,8 @@ A soma é: 100
 
 ```
 
----
 
-## 💡 Conceitos de Programação Aplicados
+💡 Conceitos de Programação Aplicados
 
 * Manipulação de IO (Entrada e Saída de dados) com `Scanner`.
 * Declaração e uso de variáveis primitivas (`int`).
